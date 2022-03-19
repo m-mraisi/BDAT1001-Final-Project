@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{280B88E2-8A59-4992-9207-422D45F6A596}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Pages/Contacts/Index.cshtml.cs" Line="30" Column="61" />
+      <File FileName="Program.cs" Line="117" Column="1" />
+      <File FileName="Data/SeedData.cs" Line="17" Column="59" />
+      <File FileName="Data/Migrations/20220319200359_initial.cs" Line="5" Column="22" />
+      <File FileName="Data/Migrations/20220319200359_initial.Designer.cs" Line="14" Column="6" />
+      <File FileName="Data/Migrations/20220319200451_CreateIdentitySchema.cs" Line="175" Column="17" />
+      <File FileName="Data/Migrations/20220319200451_CreateIdentitySchema.Designer.cs" Line="14" Column="32" />
+      <File FileName="Data/Migrations/ApplicationDbContextModelSnapshot.cs" Line="10" Column="32" />
+      <File FileName="Data/Migrations/20220319161508_userID_Status.Designer.cs" Line="14" Column="6" />
+      <File FileName="Data/Migrations/20220319161508_userID_Status.cs" Line="17" Column="13" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyApp" expanded="True">
+            <Node name="MyApp" expanded="True">
+              <Node name="Authorization" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True">
+                  <Node name="20220319161508_userID_Status.cs" expanded="True" />
+                  <Node name="20220319200359_initial.cs" expanded="True" />
+                  <Node name="20220319200451_CreateIdentitySchema.cs" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Contacts" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                  <Node name="Details.cshtml" expanded="True" />
+                  <Node name="Details2.cshtml" expanded="True" />
+                  <Node name="Index.cshtml" expanded="True" />
+                </Node>
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/Data/Migrations/20220319200451_CreateIdentitySchema.cs" relfile="Data/Migrations/20220319200451_CreateIdentitySchema.cs" line="13" column="1" />
+      <Breakpoint enabled="false" file="/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/Program.cs" relfile="Program.cs" line="87" column="1" />
+      <Breakpoint enabled="false" file="/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/Program.cs" relfile="Program.cs" line="89" column="1" />
+      <Breakpoint enabled="false" file="/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/Data/ApplicationDbContext.cs" relfile="Data/ApplicationDbContext.cs" line="11" column="1" />
+      <Breakpoint enabled="false" file="/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/Data/ApplicationDbContext.cs" relfile="Data/ApplicationDbContext.cs" line="13" column="1" />
+      <Breakpoint enabled="false" file="/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/Data/ApplicationDbContext.cs" relfile="Data/ApplicationDbContext.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
