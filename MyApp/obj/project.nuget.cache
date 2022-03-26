@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/NA+2rkNUyOfEBhPGbZiRYf4pcotTMTstNBAuYYUoUNnXGHwoi5W3mqCOzukMl809q0Yw5snTQWfVJXPNNc1dQ==",
+  "dgSpecHash": "GTOTlQ/ebL8ZXkcJPzwe57WnGdLGlLKTXW93FDk5+2IGIQsjZYTFHfkCROmmRr6upJ1jzO8Qfh35yRpHCinF/g==",
   "success": true,
-  "projectFilePath": "/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/MyApp.csproj",
+  "projectFilePath": "/Users/m.mraisi/MmraisiProjects/GitHub/BDAT1001-Final-Project/MyApp/MyApp.csproj",
   "expectedPackageFiles": [
     "/Users/m.mraisi/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/m.mraisi/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",

@@ -27,7 +27,7 @@ namespace MyApp.Authorization
             }
 
             // Managers can approve or reject.
-            if (context.User.IsInRole(Constants.ContactManagersRole))
+            if (context.User.IsInRole(Constants.MyAppsRole))
             {
                 context.Succeed(requirement);
             }

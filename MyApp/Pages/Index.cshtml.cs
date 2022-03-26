@@ -27,7 +27,7 @@ public class IndexModel : DI_BasePageModel
         var contacts = from c in Context.Contact
                        select c;
 
-        var isAuthorized = User.IsInRole(Constants.ContactManagersRole) ||
+        var isAuthorized = User.IsInRole(Constants.MyAppsRole) ||
                            User.IsInRole(Constants.ContactAdministratorsRole);
 
         var currentUserId = UserManager.GetUserId(User);

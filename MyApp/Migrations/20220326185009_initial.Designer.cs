@@ -8,11 +8,11 @@ using MyApp.Data;
 
 #nullable disable
 
-namespace MyApp.Data.Migrations
+namespace MyApp.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220319200451_CreateIdentitySchema")]
-    partial class CreateIdentitySchema
+    [Migration("20220326185009_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

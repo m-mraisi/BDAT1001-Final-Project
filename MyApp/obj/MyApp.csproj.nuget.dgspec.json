@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/MyApp.csproj": {}
+    "/Users/m.mraisi/MmraisiProjects/GitHub/BDAT1001-Final-Project/MyApp/MyApp.csproj": {}
   },
   "projects": {
-    "/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/MyApp.csproj": {
+    "/Users/m.mraisi/MmraisiProjects/GitHub/BDAT1001-Final-Project/MyApp/MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/MyApp.csproj",
+        "projectUniqueName": "/Users/m.mraisi/MmraisiProjects/GitHub/BDAT1001-Final-Project/MyApp/MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/MyApp.csproj",
+        "projectPath": "/Users/m.mraisi/MmraisiProjects/GitHub/BDAT1001-Final-Project/MyApp/MyApp.csproj",
         "packagesPath": "/Users/m.mraisi/.nuget/packages/",
-        "outputPath": "/Users/m.mraisi/Georgian courses/First Term/Information Encoding Standards - BDAT1001/Final Project/MyApp/MyApp/obj/",
+        "outputPath": "/Users/m.mraisi/MmraisiProjects/GitHub/BDAT1001-Final-Project/MyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/m.mraisi/.nuget/NuGet/NuGet.Config"

@@ -22,7 +22,7 @@ namespace MyApp.Data
 
                 // allowed user can create and edit contacts that they create
                 var managerID = await EnsureUser(serviceProvider, testUserPw, "200510888@student.georgianc.on.ca");
-                await EnsureRole(serviceProvider, managerID, Constants.ContactManagersRole);
+                await EnsureRole(serviceProvider, managerID, Constants.MyAppsRole);
 
                 SeedDB(context, adminID);
             }
